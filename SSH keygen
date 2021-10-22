@@ -1,0 +1,17 @@
+ssh keygen 
+Your identification has been saved in jeffrey.txt.
+Your public key has been saved in jeffrey.txt.pub.
+The key fingerprint is:
+SHA256:Dd9lgu02P7JPTgksWrY91oPHRyUeUDODp5G54wHGT24 jeffreyvandenberg@MacBook-Pro-van-Jeffrey.local
+The key's randomart image is:
++---[RSA 2048]----+
+|         .  .==  |
+|          +o*..+ |
+|        ...=o== .|
+|         + +E= o.|
+|        S *oBo. .|
+|         + =.B o |
+|        . . * @ .|
+|           . O + |
+|            ..o  |
++----[SHA256]-----+
