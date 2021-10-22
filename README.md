@@ -10,3 +10,4 @@ Een lijst maak je door er nummers-met-punt voor te zetten, start bij 1. Een onge
 Hyperlinks maak je door de weer te geven tekst tussen blokhaken te zetten, direct gevolgd door de link tussen haakjes 
 [Beste zoekmachine] (https://duckduckgo.com)
 [markdownguide.org] 
+*hallohallo*
